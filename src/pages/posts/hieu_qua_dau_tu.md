@@ -15,7 +15,7 @@ tags: ["đầu-tư", "danh-mục", "hiệu-quả", "DCA"]
 ## Hiệu quả đầu tư
 
 |            | NAV (VND)  | TTWRR (%) | IRR (%)   | Max DD (%)   |
-| ---------- | ------- | ------- | ------- | ------- | ------- |
+| ---------- | ------- | ------- | ------- | ------- |
 | 2025   | 253,150,458 | <span class="text-green-800">+24.0%</span>  | <span class="text-green-800">34.96.1%</span> | <span class="text-orange-700">-17.31% </span>  |
 
 ---
