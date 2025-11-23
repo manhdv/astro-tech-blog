@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/post.astro
-title: "Hiệu quả và đầu tư"
+title: "Hiệu quả đầu tư"
 pubDate: 2025-11-23
 description: "Tổng hợp danh mục cổ phiếu, số lượng nắm giữ, giá trung bình và hiệu quả đầu tư."
 author: "mage"
@@ -14,9 +14,9 @@ tags: ["đầu-tư", "danh-mục", "hiệu-quả", "DCA"]
 
 ## Hiệu quả đầu tư
 
-|            | NAV (VND)  | TTWRR (%) | IRR (%)   | Max DD (%)   | Volatility (%) |
+|            | NAV (VND)  | TTWRR (%) | IRR (%)   | Max DD (%)   |
 | ---------- | ------- | ------- | ------- | ------- | ------- |
-| 2025   | 253,150,458 | <span class="text-green-800">+24.0%</span>  | <span class="text-green-800">34.96.1%</span> | <span class="text-orange-700">-17.31% </span>  | <span class="text-green-800">+16.15%</span> |
+| 2025   | 253,150,458 | <span class="text-green-800">+24.0%</span>  | <span class="text-green-800">34.96.1%</span> | <span class="text-orange-700">-17.31% </span>  |
 
 ---
 
@@ -25,7 +25,7 @@ tags: ["đầu-tư", "danh-mục", "hiệu-quả", "DCA"]
 | Cổ phiếu | Số lượng  | Giá trị (VND) | Hiệu quả (%) | Tỷ trọng NAV (%) |
 | -------- | --------  | ------------- | ------------ | ---------------- |
 | FUEVFVND| 1200      | 45,366,000    | <span class="text-green-800">20.49</span>    | 17.91 |
-| FPT      | 400       | 40,320,000    | <span class="text-green-800">-8.75</span>      | 15.93 |
+| FPT      | 400       | 40,320,000    | <span class="text-orange-700">-8.75</span>  | 15.93 |
 | BRK.B    | 2.2       | 28,875,851    | <span class="text-green-800">0.23</span>     | 11.41 |
 | NVDA     | 4.5       | 21,171,543    | <span class="text-green-800">59.38</span>    | 8.36 |
 | DRL      | 400       | 20,120,000    | <span class="text-orange-700">-7.84</span>   | 7.95 |
