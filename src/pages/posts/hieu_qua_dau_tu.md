@@ -16,7 +16,7 @@ tags: ["đầu-tư", "danh-mục", "hiệu-quả", "DCA"]
 
 |            | NAV (VND)  | TTWRR (%) | IRR (%)   | Max DD (%)   |
 | ---------- | ------- | ------- | ------- | ------- |
-| 2025   | 253,150,458 | <span class="text-green-800">+24.0%</span>  | <span class="text-green-800">34.96%</span> | <span class="text-orange-700">-17.31% </span>  |
+| 2025   | 253,150,458 | <span class="text-green-800">+24.0</span>  | <span class="text-green-800">34.96</span> | <span class="text-orange-700">-17.31 </span>  |
 
 ---
 
