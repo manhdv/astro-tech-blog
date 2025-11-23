@@ -16,13 +16,13 @@ tags: ["đầu-tư", "danh-mục", "hiệu-quả", "DCA"]
 
 |            | NAV (VND)  | TTWRR (%) | IRR (%)   | Max DD (%)   |
 | ---------- | ------- | ------- | ------- | ------- |
-| 2025   | 253,150,458 | <span class="text-green-800">+24.0%</span>  | <span class="text-green-800">34.96.1%</span> | <span class="text-orange-700">-17.31% </span>  |
+| 2025   | 253,150,458 | <span class="text-green-800">+24.0%</span>  | <span class="text-green-800">34.96%</span> | <span class="text-orange-700">-17.31% </span>  |
 
 ---
 
 ## Tổng quan danh mục
 
-| Cổ phiếu | Số lượng  | Giá trị (VND) | Hiệu quả (%) | Tỷ trọng NAV (%) |
+| Cổ phiếu | Số lượng  | Giá trị (VND) | Hiệu quả (%) | Tỷ trọng (%) |
 | -------- | --------  | ------------- | ------------ | ---------------- |
 | FUEVFVND| 1200      | 45,366,000    | <span class="text-green-800">20.49</span>    | 17.91 |
 | FPT      | 400       | 40,320,000    | <span class="text-orange-700">-8.75</span>  | 15.93 |
