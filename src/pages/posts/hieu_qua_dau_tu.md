@@ -9,7 +9,7 @@ excerpt: "Tóm tắt hiệu quả đầu tư của các cổ phiếu và danh m�
 image:
   src:
   alt:
-tags: ["đầu-tư", "danh-mục", "hiệu-quả", "DCA"]
+tags: ["đầu-tư", "danh-mục", "hiệu-quả"]
 ---
 
 ## Hiệu quả đầu tư
