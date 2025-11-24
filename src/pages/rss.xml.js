@@ -2,7 +2,7 @@ import rss, {pagesGlobToRssItems} from '@astrojs/rss';
 
 export async function GET(context) {
   return rss({
-    title: 'lakl.net',
+    title: 'dcaordie',
     description: 'Nhật ký đầu tư cá nhân',
     site: context.site,
     items: await pagesGlobToRssItems(

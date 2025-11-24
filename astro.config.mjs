@@ -30,7 +30,7 @@ const options = {
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://lakl.net',
+	site: 'https://dcaordie.com',
 
 	markdown: {
 		syntaxHighlight: false,
