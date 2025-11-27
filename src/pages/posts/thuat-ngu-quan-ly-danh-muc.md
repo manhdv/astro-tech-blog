@@ -7,8 +7,8 @@ author: "mage"
 isPinned: false
 excerpt: "Bộ giải thích ngắn gọn các chỉ số đánh giá hiệu quả danh mục — IRR, TWR, MWR, XIRR — hiểu nhanh để không tự ảo tưởng về lợi nhuận."
 image:
-  src: "/images/money-weighted-return-time-weighted-return.webp"
-  alt: "money-weighted-return-time-weighted-return"
+  src: "/images/mwr-twr.webp"
+  alt: "money-weighted vs time-weighted return"
 tags: ["đầu-tư", "danh-mục"]
 ---
 
